@@ -1,0 +1,2 @@
+com/cabeludo/mygame/desktop/DesktopLauncher.java
+ com.cabeludo.mygame.desktop.DesktopLauncher
